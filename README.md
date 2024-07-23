@@ -21,10 +21,10 @@ Soy un apasionado por el aprendizaje continuo de nuevas herramientas, metodolog�
 
 ---
 ### 📫 Contáctame
-<a href="https://www.linkedin.com/in/cesar-bertalot-/" target="_blank"> 
+<a href="https://www.linkedin.com/in/cesar-bertalot-/"> 
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="27"> </a>
 <br>
 
-<a href="https://github.com/CesarBerta" target="_blank"> 
+<a href="https://github.com/CesarBerta"> 
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="27"> </a>
 
